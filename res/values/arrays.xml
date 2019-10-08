@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="reg_url">
+	    <item>http://V10.tj.doov.cn:9090/api/ReceiveData_V10</item>
+	    <item>http://V15.tj.doov.cn:9090/api/ReceiveData_V15</item>
+	    <item>http://L520.tj.doov.cn:9090/api/ReceiveData_L520</item>
+	    <item>http://A10.tj.doov.cn:9090/api/ReceiveData_A10</item>
+	    <item>http://A12.tj.doov.cn:9090/api/ReceiveData_A12</item>
+	    <item>http://V12.tj.doov.cn:9090/api/ReceiveData_V12</item>
+	    <item>http://V11.tj.doov.cn:9090/api/ReceiveData_V11</item>
+		<item>http://A11.tj.doov.cn:9090/api/ReceiveData_A11</item>
+		<item>http://V7.tj.doov.cn:9090/api/ReceiveData_V7</item>
+		<item>http://V6.tj.doov.cn:9090/api/ReceiveData_V6</item>
+		<item>http://V5C.tj.doov.cn:9090/api/ReceiveData_V5C</item>
+		<item>http://V5.tj.doov.cn:9090/api/ReceiveData_V5</item>
+		<item>http://L9_mini.tj.doov.cn:9090/api/ReceiveData_L9_mini</item>
+		<item>http://V3.tj.doov.cn:9090/api/ReceiveData_V3</item>
+		<item>http://M2.tj.doov.cn:9090/api/ReceiveData_M2</item>
+		<item>http://L9.tj.doov.cn:9090/api/ReceiveData_L9</item>
+		<item>http://A5.tj.doov.cn:9090/api/ReceiveData_A5</item>
+		<item>http://A8.tj.doov.cn:9090/api/ReceiveData_A8</item>
+		<item>http://L8Plus.tj.doov.cn:9090/api/ReceiveData_L8Plus</item>
+		<item>http://M1w.tj.doov.cn:9090/api/ReceiveData_M1w</item>
+		<item>http://M1t.tj.doov.cn:9090/api/ReceiveData_M1t</item>
+		<item>http://A6.tj.doov.cn:9090/api/ReceiveData_A6</item>
+		<item>http://Angel.tj.doov.cn:9090/api/ReceiveData_Angel</item>	    
+		<item>http://L5M.tj.doov.cn:9090/api/ReceiveData_L5M</item>
+		<item>http://ChuanQi.tj.doov.cn:9090/api/ReceiveData_ChuanQi</item>
+		<item>http://QingGuo.tj.doov.cn:9090/api/ReceiveData_QingGuo</item>
+		<item>http://QiJi.tj.doov.cn:9090/api/ReceiveData_QiJi</item>
+		<item>http://L6.tj.doov.cn:9090/api/ReceiveData_L6</item>
+    </string-array>
+	<string-array name="device">
+		<!-- xiaoai -->
+		<item>V10</item>	    
+		<!-- hongri -->
+		<item>V15</item>	    
+		<!-- jixiang -->
+		<item>L520</item>	    
+		<!-- xinkong -->
+		<item>A10</item>	    
+	    <!-- lanxin -->
+		<item>A12</item>
+		<!-- ruyi2 -->
+		<item>V12</item>	    
+		<!-- ruyi1 -->
+		<item>V11</item>	    
+		<!-- diebian -->
+		<item>A11</item>		    
+		<!-- feiyan -->
+		<item>V7</item>	    
+		<!-- feilong -->
+		<item>V6</item>	    
+		<!-- feiwu -->
+		<item>V5C</item>
+		<item>V5</item>	    
+		<!-- zhiai -->
+		<item>L9 mini</item>
+		<!-- feixiang -->
+		<item>V3</item>
+		<!-- feiyue -->
+		<item>M2</item>	  
+		<item>L9</item>  
+		<item>A5</item>
+		<!-- zhangfan -->
+		<item>A8</item>
+		<item>L8</item>
+		<item>M1w</item>
+		<item>M1t</item>
+		<item>A6</item>
+		<item>A3</item>
+		<item>L5M</item>
+		<item>L5Pro</item>
+		<item>L5</item>
+		<item>S5</item>
+		<item>L6</item>
+    </string-array>    
+</resources>
